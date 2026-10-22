@@ -9,8 +9,8 @@ Claude Code나 Codex가 일하는 중인지, 확인이 필요한지, 끝났는�
 
 [Releases](../../releases/latest)에서 쓰는 도구에 맞는 묶음을 받습니다.
 
-- `머털이_설치_v*.zip`: Claude Code용
-- `머털이_Codex_설치_v*.zip`: Codex용
+- `meoteori-claude-v*.zip`: Claude Code용
+- `meoteori-codex-v*.zip`: Codex용
 
 둘 다 쓰면 두 묶음의 설치를 모두 돌리면 됩니다. 앱은 하나라 양쪽 신호를 같이 받습니다.
 
